@@ -6,3 +6,6 @@ I love to code.
 
 ## Employment
 
+## Education 
+
+## Contact
